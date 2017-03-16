@@ -33,6 +33,7 @@ public class Test01 {
 		}
 		Thread.sleep(10000);
 		System.out.println("=========================");
+		System.out.println("+++++++++++++++++++++++++++++++");
 	}
 
 	private void divide() {
