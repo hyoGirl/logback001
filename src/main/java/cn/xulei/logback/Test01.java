@@ -32,6 +32,7 @@ public class Test01 {
 			logger.error("大家好111!", ex);
 		}
 		Thread.sleep(10000);
+		System.out.println("=========================");
 	}
 
 	private void divide() {
